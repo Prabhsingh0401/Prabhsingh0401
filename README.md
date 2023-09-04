@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prabhsingh0401
 - 👀 I’m interested in basically everything which includes tech.
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Javascript and C++
 - 📫 How to reach me there's link to my socials in my profile :)
 
 <!---
