@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Prabhsingh0401
+- 👋 Hi, I’m Prableen Singh a 2nd year student pursuing B.tech in computer Science.
 - 👀 I’m interested in basically everything which includes tech.
 - 🌱 I’m currently learning Javascript and C++ and also gonna learn DSA by the end of this year ✨
 - 📫 How to reach me there's link to my socials in my profile :)
