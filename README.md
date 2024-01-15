@@ -38,7 +38,6 @@
 </div>
 <div align="center">
   <h2>My Stats 📊</h2>
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat&color=blue" alt=""/>
   <br></br>
   
   [![GitHub Streak](https://streak-stats.demolab.com?user=prabhsingh0401&theme=github-dark-blue&hide_border=true&border_radius=30&date_format=j%20M%5B%20Y%5D&card_width=500)](https://github.com/Prabhsingh0401)
