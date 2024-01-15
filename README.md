@@ -33,7 +33,7 @@
   <h3>Frontend Technologies</h3>
   <img src="https://skillicons.dev/icons?i=html,css,tailwind" />
   <h3>Tools</h3>
-  <img src="https://skillicons.dev/icons?i=git,vscode,ae,ps,pr,ai,lrc" />
+  <img src="https://skillicons.dev/icons?i=git,vscode,ae,ps,pr,ai,li" />
 
 </div>
 <div align="center">
