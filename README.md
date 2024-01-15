@@ -41,14 +41,14 @@
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat&color=blue" alt=""/>
   <br></br>
   
-  [![GitHub Streak](https://streak-stats.demolab.com?user=harjjotsinghh&theme=github-dark-blue&hide_border=true&border_radius=30&date_format=j%20M%5B%20Y%5D&card_width=500)](https://github.com/HarjjotSinghh)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=prabhsingh0401&theme=github-dark-blue&hide_border=true&border_radius=30&date_format=j%20M%5B%20Y%5D&card_width=500)](https://github.com/Prabhsingh0401)
 
-  ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harjjotsinghh&theme=transparent)
+  ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prabhsingh0401&theme=transparent)
   
   <div algin="left">
 
-  ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=harjjotsinghh&theme=transparent)
+  ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=prabhsingh0401&theme=transparent)
 
-  ![Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harjjotsinghh&theme=transparent)
+  ![Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prabhsingh0401&theme=transparent)
   
   </div>
