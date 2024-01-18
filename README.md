@@ -31,7 +31,7 @@
   <h3>Languages</h3>
   <img src="https://skillicons.dev/icons?i=js,py,c,cpp" />
   <h3>Frontend Technologies</h3>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react" />
   <h3>Tools</h3>
   <img src="https://skillicons.dev/icons?i=git,vscode,ps,pr,ai" />
 
