@@ -6,23 +6,16 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **my skills as a front-end Developer**
+- 🔭 I’m currently working on **My Personal Portfolio**
 
 - 🌱 I’m currently learning **React Framework and Node Js**
 
-- 👯 I’m looking to collaborate on **anything related to front-end Web Development**
-
-- 💬 Ask me about **anything related to tech :)**
-
-- 📫 How to reach me **prableensingh0401@gmail.com**
-
-- ⚡ Fun fact **I am a Tech Nerd and Photographer**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://linkedin.com/in/prableen-singh-matharu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/prableen-singh-matharu/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/_.prabh__ramgharia._/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_.prabh__ramgharia._/" height="30" width="40" /></a>
-<a href="https://discord.gg/prabhramgharia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="prabhramgharia" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://linkedin.com/in/prableen-singh-matharu/" target="blank"></a><img src="https://skillicons.dev/icons?i=linkedin" />
+<a href="https://instagram.com/https://www.instagram.com/_.prabh__ramgharia._/" target="blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+<a href="https://discord.gg/prabhramgharia" target="blank"><img src="https://skillicons.dev/icons?i=discord" /></a>
+<a href="https://mail.google.com/mail/u/0/#inbox" target="blank"><img src="https://skillicons.dev/icons?i=gmail" /></a>  
 </p>
 
 <div align="center">
