@@ -28,6 +28,9 @@
   <h3>Tools</h3>
   <img src="https://skillicons.dev/icons?i=git,vscode,ps,pr,ai" />
 
+ <h3>Database</h3>
+ <img src="https://skillicons.dev/icons?i=mysql" />
+
 </div>
 <div align="center">
   <h2>My Stats 📊</h2>
