@@ -22,7 +22,7 @@
   <h2>My Skills ⚙</h2>
 
   <h3>Languages</h3>
-  <img src="https://skillicons.dev/icons?i=js,py,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=js,py,c,cpp,java" />
   <h3>Frontend Technologies</h3>
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,react" />
   <h3>Tools</h3>
