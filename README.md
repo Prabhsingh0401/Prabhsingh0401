@@ -25,9 +25,11 @@
   <img src="https://skillicons.dev/icons?i=js,py,c,cpp,java" />
   <h3>Frontend Technologies</h3>
   <img src="https://skillicons.dev/icons?i=html,css,tailwind" />
+  <br>
   <img src="https://skillicons.dev/icons?i=react,sass,typescript" />
   <h3>Tools</h3>
   <img src="https://skillicons.dev/icons?i=git,vscode,ps" />
+  <br>
   <img src="https://skillicons.dev/icons?i=pr,ai,appwrite" />
 
  <h3>Database</h3>
