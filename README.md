@@ -24,16 +24,16 @@
   <h3>Languages</h3>
   <img src="https://skillicons.dev/icons?i=js,py,c,cpp,java" />
   <h3>Frontend Technologies</h3>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,next" />
   <br>
-  <img src="https://skillicons.dev/icons?i=react,sass,typescript" />
+  <img src="https://skillicons.dev/icons?i=react,sass,typescript,svelte" />
   <h3>Tools</h3>
-  <img src="https://skillicons.dev/icons?i=git,vscode,ps" />
+  <img src="https://skillicons.dev/icons?i=git,vscode,ps,vercel" />
   <br>
-  <img src="https://skillicons.dev/icons?i=pr,ai,appwrite" />
+  <img src="https://skillicons.dev/icons?i=pr,ai,appwrite,gcp" />
 
  <h3>Database</h3>
- <img src="https://skillicons.dev/icons?i=mysql" />
+ <img src="https://skillicons.dev/icons?i=mysql,firebase,mongo" />
 
 </div>
 <div align="center">
