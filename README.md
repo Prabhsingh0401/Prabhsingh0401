@@ -8,8 +8,6 @@
 
 - 🔭 I’m currently working on **Full Stack Projects**
 
-- 🌱 I’m currently learning **MERN Stack**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://linkedin.com/in/prableen-singh-matharu/" target="blank"></a><img src="https://skillicons.dev/icons?i=linkedin" />
