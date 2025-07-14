@@ -1,4 +1,3 @@
-[![An image of @prabhsingh0401's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/prabhsingh0401)](https://holopin.io/@prabhsingh0401)
 <h1 align="center">Hi 👋, I'm Prableen Singh Matharu</h1>
 <h3 align="center">A passionate full stack developer from India, Currently pursuing B.tech in Computer Science Engineering</h3>
 
