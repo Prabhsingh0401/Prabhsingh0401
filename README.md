@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prableen Singh Matharu</h1>
-<h3 align="center">A passionate full stack developer from India, Currently pursuing B.tech in Computer Science Engineering</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prabhsingh0401&label=Profile%20views&color=0e75b6&style=flat" alt="prabhsingh0401" /> </p>
+<h3 align="center">A passionate full stack developer, currently pursuing B.tech in Computer Science Engineering. I build things.</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on **Full Stack Projects**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
