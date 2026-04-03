@@ -1,15 +1,12 @@
-<h1 align="center">Hi 👋, I'm Prableen Singh Matharu</h1>
-<h3 align="center">A passionate full stack developer, currently pursuing B.tech in Computer Science Engineering. I build things.</h3>
+<h1 align="center">Hi , I'm Prableen Singh </h1>
+<h3 align="center">Software Engineer - Designing Scalable, Human-Centered Products - Building prashan.co.in</h3>
 
 <!-- <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://linkedin.com/in/prableen-singh-matharu/" target="blank"></a><img src="https://skillicons.dev/icons?i=linkedin" />
-<a href="https://instagram.com/https://www.instagram.com/_.prabh__ramgharia._/" target="blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-<a href="https://discord.gg/prabhramgharia" target="blank"><img src="https://skillicons.dev/icons?i=discord" /></a>
-<a href="https://mail.google.com/mail/u/0/#inbox" target="blank"><img src="https://skillicons.dev/icons?i=gmail" /></a>  
-</p>
+<a href="https://linkedin.com/in/https://linkedin.com/in/prableen-singh/" target="blank"></a><img src="https://skillicons.dev/icons?i=linkedin" />
+<a href="mailto:prableensingh0401@gmail.com?subject=Hello%20Prableen&body=Hi%20there!"><img src="https://skillicons.dev/icons?i=gmail" /></a></p>
 
 <div align="center">
   <h2>My Skills ⚙</h2>
